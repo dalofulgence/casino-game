@@ -6,7 +6,7 @@ This software presents a gambling game in which the player is ask to guess one o
 
 This sofware is to demonstrate my ability to manipulate functions and loops in C++
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IBoqF4t9cuA)
 
 # Development Environment
 
